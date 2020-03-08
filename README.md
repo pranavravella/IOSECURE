@@ -1,2 +1,3 @@
 # IOSECURE
-An elegant solution to modern day network problems 
+An elegant solution to modern day network security problems
+
